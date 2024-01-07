@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&family=Ubuntu:ital@1&family=Urbanist:wght@600;700&family=Varela+Round&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 700;
+}
+.container{
+    max-width: 1170px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: auto;
+}
+section{
+    padding: 50px 0;
+}
